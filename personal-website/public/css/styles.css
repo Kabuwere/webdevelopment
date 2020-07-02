@@ -1,0 +1,94 @@
+.top-container {
+    margin-top: 0px;
+    align-content: center;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+h1 {
+    color: white;
+    font-family: 'edwardian script ITC regular', cursive;
+    font-size: 5.625rem;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+h3 {
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Centaur Regular';
+    font-size: 3rem;
+}
+h4 {
+    color: white;
+}
+.expression {
+ /* width: 40%; */
+ color: white;
+ text-align: center;
+ margin-top: 50px;
+ margin-right: 50px;
+}
+
+#middle-container {
+    text-align: center;
+}
+
+.sewing {
+    height: 450px;
+    width: 400px;
+}
+.strips {
+    height: 450px;
+    width: 400px;
+}
+.flames {
+    height: 450px;
+    width: 250px;
+}
+#bottom-container {
+    padding-bottom: 20px;
+    /* background-color: wheat; */
+    /* #283644 */
+}
+#contact {
+    text-align: center;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+  }
+  .form-signin .checkbox {
+    font-weight: 400;
+  }
+  .form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .form-signin .form-control:focus {
+    z-index: 2;
+  }
+  .top{
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .middle{
+   margin-bottom: -1px;
+   border-bottom-right-radius: 0;
+   border-bottom-left-radius: 0;   
+  }
+  .bottom{
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
